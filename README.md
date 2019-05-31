@@ -18,5 +18,6 @@ Image in the upper left is original query image, others are similar images from 
 
 ## Next Steps
 
+- apply this approach to faces (using face embeddings) and songs (using Spotify audio features)
 - perform transfer learning or fine-tuning on pretrained network using caltech beforehand
 - perform dimensionality reduction on feature vectors (e.g. using feature selection, Autoencoder or PCA)
